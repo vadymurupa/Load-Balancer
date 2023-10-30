@@ -1,0 +1,4 @@
+[debug] [load-balancer-build] Classpath dependencies List()
+[debug] [load-balancer-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'load-balancer-build' to '/home/vadym/Desktop/load-balancer/Load-Balancer/project/.bloop/load-balancer-build.json'
+[success] Generated .bloop/load-balancer-build.json
