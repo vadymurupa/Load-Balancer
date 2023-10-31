@@ -25,3 +25,4 @@ lazy val root = (project in file("."))
     assembly / mainClass             := Some("Main"),
     assembly / assemblyJarName       := "lb.jar",
   )
+ // addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "x.y.z")
